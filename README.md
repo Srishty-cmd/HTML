@@ -11,11 +11,11 @@ A form to register a new account, including:
 - Labels and form structure
 
 ### 2. 🔐 signup form/
-A HTML sign-up form that includes:
--Signup page
--Login page
--Forget-password page
--Interconnected navigation using HTML links 
+A HTML sign-up form that includes: 
+- Signup page
+- Login page
+- Forget-password page
+- Interconnected navigation using HTML links 
 
 ### 3. 🌐 web page/
 A basic static HTML web page — include headings, paragraphs, lists, links, tables and signup form.
