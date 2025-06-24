@@ -32,4 +32,4 @@ A basic static HTML web page — include headings, paragraphs, lists, links, tab
 - [GitHub Profile](https://github.com/Srishty-cmd)
 
 ## 📌 Note
-These are beginner-level practice projects for improving HTML skills. CSS and JavaScript versions may be added in the future.
+These are beginner-level practice projects for improving HTML skills. CSS and JavaScript versions may be added in the future
